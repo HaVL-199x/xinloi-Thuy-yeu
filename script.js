@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Anh hứa hongg làm e buồn nữa đâu 🥺 - Yêu Thúy nhiều 😘";
+  titleElement.innerHTML = "Nhắn cho anh ngay đi em. Anh hứa hongg làm e buồn nữa đâu 🥺 - Yêu Thúy nhiều 😘";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
